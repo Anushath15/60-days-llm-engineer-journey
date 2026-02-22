@@ -1,2 +1,12 @@
-# 60-days-llm-engineer-journey
-My 60-day journey to become an LLM &amp; AI Systems Engineer. Daily notes, projects, experiments and progress tracking.
+# 60 Days LLM Engineer Journey 🚀
+
+Goal: Become industry-ready LLM & AI Systems Engineer in 60 days.
+
+Target Role: ML Engineer Intern (LLM Systems)
+
+Tracking:
+- Daily learning
+- Project building
+- Prompt engineering
+- RAG systems
+- Multi-agent architecture
